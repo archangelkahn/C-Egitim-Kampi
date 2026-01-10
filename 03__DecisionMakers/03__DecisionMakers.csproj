@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{A263616D-3FC9-47A0-BA83-DD03F1D20AE5}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_03__DecisionMakers_Kurtarma_Operasyonu_</RootNamespace>
-    <AssemblyName>03__DecisionMakers%28Kurtarma Operasyonu%29</AssemblyName>
+    <RootNamespace>_03__DecisionMakers_</RootNamespace>
+    <AssemblyName>03__DecisionMakers</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
