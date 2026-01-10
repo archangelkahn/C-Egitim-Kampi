@@ -1,6 +1,6 @@
 <Solution>
   <Project Path="01_MainSubjects/01_MainSubjects.csproj" Id="0f3ed175-3510-42ef-aaf1-7589eb7696ee" />
   <Project Path="02_Variables/02_Variables.csproj" Id="d33947dc-b895-43a1-a029-6628a093694d" />
-  <Project Path="03__DecisionMakers(Kurtarma Operasyonu)/03__DecisionMakers.csproj" Id="a263616d-3fc9-47a0-ba83-dd03f1d20ae5" />
+  <Project Path="03__DecisionMakers/03__DecisionMakers.csproj" Id="a263616d-3fc9-47a0-ba83-dd03f1d20ae5" />
   <Project Path="04_Loops/04_Loops.csproj" Id="8e843f70-99fa-4173-825c-d64da62af8ed" />
 </Solution>
